@@ -2,7 +2,7 @@
 
 Managing assets by going over different sites and asset (Web content, Blog, Wiki and Document & Media) specific page in Control Panel is tedious sometime.
 
-With the help of this plugin, user can manage all the assets centrally (for multiple sites - user having access to). User can perform search (powered by ElasticSearch) on supported assets by using different criteria like title, content, full text, asset type, status, tags, site name, created date and modified date. This plugin is equipped with different actions like change asset status (approve and draft), assign tags, delete, download multiple documents (only available for document and media asset). Also user can open specific asset in control panel by clicking on it.
+With the help of this plugin, user can manage all the assets centrally (for multiple sites - user having access to). User can perform search (powered by ElasticSearch) by using different criteria like title, content, full text, asset type, status, tags, site name, created date and modified date. User can perform different actions on selected assets like change asset status (approve and draft), assign tags, delete, download multiple documents (only available for document and media asset). By clicking on individual asset, it will open it in control panel.
 
 ## Environment
 1. Liferay 7.0 DXP
