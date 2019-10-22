@@ -12,10 +12,9 @@ With the help of this plugin, user can manage all the assets centrally (for mult
 ## Features
 1. Powerful search feature (powered by ElasticSearch) to search different assets across multiple sites
 2. Assign tags multiple different assets
-3. Change asset status
-4. Perform download of multiple document and media files
-5. Change status for multiple different assets
-6. Deleting multiple different assets
+3. Perform download of multiple document and media files
+4. Change status for multiple different assets
+5. Deleting multiple different assets
 
 ## How to use
 1. Download and install Manage multiple assets plugin on your server. Make sure plugin is properly deployed. Before using this plugin, reindex all the search indexes.
