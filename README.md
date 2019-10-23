@@ -40,7 +40,7 @@ Upon clicking on any asset shown in Search container will open that asset in con
 
 7. Below screen shows advance search option.
 
-![05_advanced_search](https://user-images.githubusercontent.com/27973508/67084634-f77ebc80-f1ba-11e9-9040-a3b4f597076a.png)
+![05_advanced_search](https://user-images.githubusercontent.com/27973508/67362727-4052be80-f589-11e9-97a3-45a23f84ee0f.png)
 
 ## Support
    Please feel free to contact us on info@deltafixes.com for any issue/suggestions.
