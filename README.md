@@ -15,6 +15,7 @@ With the help of this plugin, user can manage all the assets centrally (for mult
 3. Perform download of multiple document and media files
 4. Change status for multiple different assets
 5. Deleting multiple different assets
+6. Upon clicking on any asset, it will open asset in edit mode in Control Panel
 
 ## How to use
 1. Download and install Manage multiple assets plugin on your server. Make sure plugin is properly deployed. Before using this plugin, reindex all the search indexes.
