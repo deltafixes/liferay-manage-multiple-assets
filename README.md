@@ -18,7 +18,7 @@ With the help of this plugin, user can manage all the assets centrally (for mult
 6. Upon clicking on any asset, it will open asset in edit mode in Control Panel
 
 ## How to use
-1. Download and install Manage multiple assets plugin on your server. Make sure plugin is properly deployed. Before using this plugin, reindex all the search indexes.
+1. [Download](https://web.liferay.com/marketplace/-/mp/application/170494229) and install Manage multiple assets plugin on your server. Make sure plugin is properly deployed. Before using this plugin, reindex all the search indexes.
 
 2. Create Private page (i.e Bulk Assets Operation).
 
